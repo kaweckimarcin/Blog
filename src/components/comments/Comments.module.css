@@ -1,0 +1,12 @@
+.comments {
+	text-align: center;
+}
+
+.comments > button {
+	font-size: 1.25rem;
+}
+
+.comments h2,
+.comments p {
+	color: #7f669d;
+}

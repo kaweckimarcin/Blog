@@ -1,0 +1,15 @@
+.post {
+	background-color: #7f669d;
+	color: #fbfacd;
+	font-size: 1rem;
+	border-radius: 15px;
+	padding: 3rem;
+	margin: 3rem auto;
+	width: 90%;
+	max-width: 60rem;
+}
+
+.italic {
+	font-style: italic;
+	color: #debace;
+}
